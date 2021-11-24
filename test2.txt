@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E52-4EB4
+
+ Directory of C:\Users\ajayv\Desktop\master
+
+11/24/2021  11:53 AM    <DIR>          .
+11/24/2021  11:53 AM    <DIR>          ..
+11/24/2021  11:53 AM               159 test2.txt
+11/24/2021  11:42 AM               353 text1.txt
+               2 File(s)            512 bytes
+               2 Dir(s)  29,427,167,232 bytes free
